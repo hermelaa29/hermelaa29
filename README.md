@@ -5,5 +5,4 @@
 - 📫 you can reach me out on my Telegram account , @Akotiet29...
 - 🙂 thank you  🙂
 
-<!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermelaa29)](https://github.com/anuraghazra/github-readme-stats)
