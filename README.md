@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋hello , it's me Hermela.<br>🧣currently I am working on frontend development , as a part-time job.<br>📌I am studying PSIR at Addis Ababa University .<br>👯 I’m looking to collaborate on a real world frontend projects.<br>📫 you can reach me out on my social media accounts .<br>🌱 🙂 thank you  🙂<br>
+👋hello , it's me Hermela.<br>🧣currently I am working on frontend development , as a part-time job.<br>📌I am studying PSIR at Addis Ababa University .<br>👯 I’m looking to collaborate on a real world frontend projects.<br>📫 you can reach me out through my social media accounts .<br>🌱 🙂 thank you  🙂<br>
 
 
 ## 🌐 Socials:
