@@ -1,4 +1,4 @@
-<h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm a full-stack developer </h1>
+<h1>Hi 👋, I'm a full-stack developer </h1>
 <p>🧣currently I am working on full-stack development , as a part-time job.  📌I am studying PSIR at Addis Ababa University .  👯 I’m looking to collaborate on a real world frontend projects.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
