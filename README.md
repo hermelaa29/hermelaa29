@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 my name is Hermela, a full-stack developer.<br>🧣currently I am working on full-stack development , as a part-time job.<br> 📌I am studying PSIR at Addis Ababa University .<br> 👯 I’m looking to collaborate on a real world frontend projects.
+Hi 👋 my name is Hermela, a full-stack developer.<br>🧣currently I am working on full-stack development , as a part-time job.<br> 📌I am studying PSIR at Addis Ababa University .<br> 👯 I’m looking to collaborate on a real world full-stack projects.
 
 
 ## 🌐 Socials:
